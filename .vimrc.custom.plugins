@@ -8,13 +8,12 @@
 " 1.执行:w保存修改
 " 2.执行,s重新加载vim配置
 " 3.执行,,i进行插件安装
-" Plug 'iamcco/mathjax-support-for-mkdp'
-" Plug 'iamcco/markdown-preview.vim'
-" Plug 'Yggdroot/indentLine'
-" Plug 'gorodinskiy/vim-coloresque'
+Plug 'iamcco/mathjax-support-for-mkdp'
+Plug 'iamcco/markdown-preview.vim'
+" Plug 'Yggdroot/indentLin Plug 'gorodinskiy/vim-coloresque'
 " Plug 'vim-scripts/DoxygenToolkit.vim'
 
 " 卸载/禁用~/.vimrc里的默认插件
-" UnPlug 'chxuan/prepare-code'
+UnPlug 'chxuan/prepare-code'
 
 
